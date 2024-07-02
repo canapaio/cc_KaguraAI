@@ -1,0 +1,11 @@
+{
+    "language": "Italian",
+    "only_local_responses": false,
+    "disable_episodic_memories": false,
+    "disable_declarative_memories": false,
+    "disable_procedural_memories": false,
+    "number_of_declarative_items": 5,
+    "number_of_episodic_items": 30,
+    "declarative_threshold": 0.5,
+    "episodic_threshold": 0.6
+}
