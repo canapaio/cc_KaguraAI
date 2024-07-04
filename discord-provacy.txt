@@ -1,0 +1,38 @@
+1. Informazioni che raccogliamo:
+
+    Informazioni fornite volontariamente: Potremmo raccogliere le informazioni che ci fornisci direttamente, come il tuo nome utente, la tua email o qualsiasi altra informazione che decidi di condividere pubblicamente sul server o tramite messaggi privati.
+    Log di attività: Raccogliamo automaticamente alcune informazioni relative al tuo utilizzo del server, come la data e l’ora degli accessi, i canali visitati e le azioni intraprese.
+
+2. Utilizzo delle informazioni:
+
+    Utilizziamo le informazioni raccolte per:
+        Fornire e migliorare il servizio del server.
+        Personalizzare l’esperienza utente.
+        Gestire e moderare il server, garantendo un ambiente sicuro e rispettoso per tutti gli utenti.
+        Rispondere alle tue richieste e fornire assistenza.
+
+3. Condivisione delle informazioni:
+
+    Non condividiamo le tue informazioni personali con terzi senza il tuo consenso, tranne nei casi seguenti:
+        Se richiesto dalla legge o da un’autorità giudiziaria.
+        Per prevenire o indagare su attività illegali o sospette.
+        Per proteggere i diritti, la proprietà o la sicurezza del server o degli utenti.
+
+4. Sicurezza:
+
+    Implementiamo misure di sicurezza appropriate per proteggere le tue informazioni personali da accessi non autorizzati, divulgazione, alterazione o distruzione.
+
+5. Cookie e tecnologie simili:
+
+    Possiamo utilizzare cookie e tecnologie simili per raccogliere informazioni sull’utilizzo del server. Puoi configurare il tuo browser per rifiutare i cookie, ma ciò potrebbe limitare la funzionalità del server.
+
+6. Diritti degli utenti:
+
+    Hai il diritto di accedere, correggere o cancellare le tue informazioni personali che abbiamo raccolto.
+    Puoi contattarci per esercitare questi diritti.
+
+7. Modifiche alla Privacy Policy:
+
+    Possiamo aggiornare questa Privacy Policy in qualsiasi momento. Le modifiche saranno pubblicate sul server.
+
+Ricorda di adattare questa Privacy Policy alle specifiche esigenze del tuo server Discord e di consultarti con un professionista legale per assicurarti che sia conforme alla normativa vigente.
