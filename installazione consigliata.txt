@@ -57,13 +57,13 @@ CPU 12/16 core
   usa pure il mio compese.yml sembra funzionare :)
     https://raw.githubusercontent.com/canapaio/cc_KaguraAI/main/compose.yml
 
-7 configura CCat con il modello che hai scelto
+7 configura CCat con il modello che hai scelto http://ip_ccat:1865/admin/settings (ip_ccat può essere localhost o l'ip della macchina remota dove riposa il gatto)
     7.1 Conf. L.Model 
         ollama
     7.2 Base Url 
         http://ip_home_ollama_serve:11434
     7.3 Model:
-        uno di quelli inseriti in pull o quello che ti sei creato (Mistral, Gemma2 o nome_modello)
+        uno di quelli inseriti con ollama pull modello, o quello che ti sei creato (Mistral, Gemma2 o nome_modello)
 
 8 ti consiglio di usre matrioska embedder e sbert, mi pare funzioni bene
     https://github.com/nickprock/matryoshka-embeddings
