@@ -56,6 +56,7 @@ CPU 12/16 core
 6 installare CCat con qdrant
   usa pure il mio compese.yml sembra funzionare :)
     https://raw.githubusercontent.com/canapaio/cc_KaguraAI/main/compose.yml
+
 7 configura CCat con il modello che hai scelto
     7.1 Conf. L.Model 
         ollama
@@ -63,3 +64,11 @@ CPU 12/16 core
         http://ip_home_ollama_serve:11434
     7.3 Model:
         uno di quelli inseriti in pull o quello che ti sei creato (Mistral, Gemma2 o nome_modello)
+
+8 ti consiglio di usre matrioska embedder e sbert, mi pare funzioni bene
+    https://github.com/nickprock/matryoshka-embeddings
+    https://github.com/nickprock/sbert-integration
+
+prima di iniziare a lavorare seriamente fai tante prove e installa tutti i plugin che ritieni opportuni
+
+i plugin possono cancellare la memoria del gatto, prima di fare un massiccio inserimento di dati assicurati di aver testato e selezionato i plugin giusti
