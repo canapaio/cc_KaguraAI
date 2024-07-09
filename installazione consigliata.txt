@@ -50,8 +50,18 @@ CPU 12/16 core
   ollama pull mistral
   ollama pull gemma2
 
+
 3.2 vivamente consigliato crearsi il propio modello scaricandolo da Hugginface e compialndo un file ad oc per le tue esigenze
   ollama create nome_modello -f file_configurazione_modello.file
+
+4 Docer Cuda
+sudo apt update && sudo apt upgrade nvidia-container-toolkit 
+4.0 ## Installlare docker da repository
+4.1 ##
+https://linuxconfig.org/setting-up-nvidia-cuda-toolkit-in-a-docker-container-on-debian-ubuntu
+4.2 ##
+curl -fsSL https://nvidia.github.io/libnvidia-container/gpgkey -o /tmp/nvidia-gpgkey
+
 
 6 installare CCat con qdrant
   usa pure il mio compese.yml sembra funzionare :)
