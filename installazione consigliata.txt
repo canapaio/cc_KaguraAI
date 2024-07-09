@@ -32,14 +32,7 @@ CPU 12/16 core
     in lavoraizone     
   
 2.1 Installare driver nvidia, varie e CUDA
-    https://www.server-world.info/en/note?os=Ubuntu_22.04&p=nvidia&f=4
-  2.2 installare nvidia toolkit
-    https://www.server-world.info/en/note?os=Ubuntu_22.04&p=nvidia&f=2
-  2.3 instalalre nVisa SDK
-    https://www.server-world.info/en/note?os=Ubuntu_22.04&p=nvidia&f=3
-  2.4 Installare CUDA
-     https://www.server-world.info/en/note?os=Ubuntu_22.04&p=nvidia&f=4
-     la guida è per 11.5 ma installa le 12.5 se tutto va bene
+
 
 3 installare ollama
   https://www.server-world.info/en/note?os=Ubuntu_22.04&p=ollama&f=1
